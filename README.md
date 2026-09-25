@@ -152,7 +152,7 @@ GPT大模型未做精确Token统计，主要消耗于OCR文档解析、海量Mar
 12. 公网知识库访问信息
 
 知识库名称：日本商业动画制作知识库问答系统
-公网访问地址：[待补充FastGPT公开分享链接]
+公网访问地址：https://cloud.fastgpt.io/chat/share?shareId=ofHAmrubrNarwD0sY0wlSE2c&showHistory=0
 访问方式：无需登录，打开链接即可直接进行专业问答测试
 推荐测试问题
 1. 什么是絵コンテ？它在日本商业动画制作中起什么作用？
